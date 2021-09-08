@@ -1,4 +1,4 @@
-# The-Sparks-Foundation-
+# The Sparks Foundation Internship
 Hi everyone !🙋🏻‍♀️ I have been selected as a Data Science and Business Analytics Intern at The Sparks Foundation for the SEPT 2021 Batch.
 I will be posting the output coded videos on my LinkedIn page. 👩🏻‍💻
 
